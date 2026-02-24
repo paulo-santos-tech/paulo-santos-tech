@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://uxvision.com.br">
+  <a href="https://uxvision.com.br" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/psantos02/">
+  <a href="https://www.linkedin.com/in/psantos02/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-BD00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
