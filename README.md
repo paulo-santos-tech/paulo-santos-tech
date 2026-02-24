@@ -20,9 +20,7 @@
 ## 🧠 SYSTEM
 
 ```bash
-> Booting Developer Environment...
-> Mode: CYBERPUNK_FRONTEND
-> Stack Loaded: HTML | CSS | JS | React | Vite
+> Stack Loaded: HTML | CSS | JS | React | Vite | Supabase | TypeScript
 > AI Assistance: ENABLED
 > UI Precision: MAXIMUM
 > Performance Target: 100 Lighthouse
